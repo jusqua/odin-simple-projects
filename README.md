@@ -11,3 +11,4 @@ Non-deployable solutions for [The Odin Project](https://www.theodinproject.com).
 - [Tic Tac Toe](https://www.theodinproject.com/lessons/ruby-tic-tac-toe) → [Repository](https://github.com/jusqua/odin-tictactoe)
 - [Mastermind](https://www.theodinproject.com/lessons/ruby-mastermind) → [Repository](https://github.com/jusqua/odin-mastermind)
 - [Hangman](https://www.theodinproject.com/lessons/ruby-tic-tac-toe) → [Repository](https://github.com/jusqua/odin-hangman)
+- [Custom Enumerables](https://www.theodinproject.com/lessons/ruby-custom-enumerables) → [Solution](./custom_enumerables.rb)
